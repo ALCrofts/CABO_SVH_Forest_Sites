@@ -26,3 +26,5 @@ This repository is meant to be a reasonably well-documented record of the analys
 
 # Associated data products
 Upon acceptance associated data will be made publically archieved in the Ecological Spectral Information System (EcoSIS) repository. 
+
+[![DOI](https://zenodo.org/badge/640035657.svg)](https://zenodo.org/doi/10.5281/zenodo.10735409)

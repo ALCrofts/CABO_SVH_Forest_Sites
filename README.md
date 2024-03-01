@@ -17,7 +17,10 @@ The repository contains an R script composed of three sections:
 - Study site figure
 - Spurious northness effects
 - Wavelengths contributing to spectral diversity
-
+4. Preliminary Analysis looking at degree of correspondence using fused, full spectrum
+- Composition: procrustes and pearson's correlations
+- Diversity: pearson's correlations
+- 
 # How to use
 This repository is meant to be a reasonably well-documented record of the analyses carried out in the manuscript detailed above. 
 

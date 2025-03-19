@@ -1,7 +1,7 @@
 # CABO_SVH_Forest_Sites
 
 This repository is meant to support the manuscript: 
-"Linking aerial hyperspectral data to canopy tree biodiversity: an examination of the spectral variation hypothesis" by Crofts et al. (2024) available at: doi/10.1002/ecm.16 
+"Linking aerial hyperspectral data to canopy tree biodiversity: an examination of the spectral variation hypothesis" by Crofts et al. (2024) available at:  https://doi.org/10.1002/ecm.1605 
 
 This study is apart of the larger Canadian Airborne Biodiversity Observatory (http://caboscience.org/) initiative.
 

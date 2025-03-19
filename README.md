@@ -1,12 +1,12 @@
 # CABO_SVH_Forest_Sites
 
 This repository is meant to support the manuscript: 
-"Linking aerial hyperspectral data to canopy tree biodiversity: an examination of the spectral variation hypothesis" by Crofts et al. in prep. 
+"Linking aerial hyperspectral data to canopy tree biodiversity: an examination of the spectral variation hypothesis" by Crofts et al. (2024) available at: doi/10.1002/ecm.16 
 
 This study is apart of the larger Canadian Airborne Biodiversity Observatory (http://caboscience.org/) initiative.
 
 # Components
-The repository contains an R script composed of three sections:
+The repository contains an R script composed of four sections:
 1. The Degree of Correspondence Analsyses (ie., the relationship between spectral and field-based community properites)
 - Composition: procrustes and pearson's correlations
 - Diversity: pearson's correlations
@@ -20,11 +20,11 @@ The repository contains an R script composed of three sections:
 4. Preliminary Analysis looking at degree of correspondence using fused, full spectrum
 - Composition: procrustes and pearson's correlations
 - Diversity: pearson's correlations
-- 
+  
 # How to use
 This repository is meant to be a reasonably well-documented record of the analyses carried out in the manuscript detailed above. 
 
 # Associated data products
-Upon acceptance associated data will be made publically archieved in the Ecological Spectral Information System (EcoSIS) repository. 
+The associated data are publically archieved in the Dryad repository. Crofts et al. (2024). CABO forest inventory survey data: Canopy-level spectra, species abundances, and environmental conditions. Available at: https://doi.org/10.5061/dryad.5mkkwh7dh.
 
 DOI: 10.5281/zenodo.10735410
